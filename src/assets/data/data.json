@@ -1,0 +1,36 @@
+[
+  {
+    "model": "Tesla Autonomy Gold Edition +",
+    "price": 100000,
+    "colors": [
+      { "color": "Mustard yellow", "price": 1000 },
+      { "color": "Warm grey", "price": 1300 }
+    ]
+  },
+  {
+    "model": "Tesla Perfomance Ultra Platinum",
+    "price": 300000,
+    "colors": [
+      { "color": "Ketchup red", "price": 100 },
+      { "color": "Ferrari Red", "price": 1337 }
+    ]
+  },
+  {
+    "model": "Tesla standart edition",
+    "price": 60000,
+    "colors": [
+      { "color": "Dirty white", "price": 0 },
+      { "color": "White", "price": 100 },
+      { "color": "True white", "price": 3000 }
+    ]
+  },
+  {
+    "model": "Tesla standart edition",
+    "price": 60000,
+    "colors": [
+      { "color": "Dirty white", "price": 0 },
+      { "color": "White", "price": 100 },
+      { "color": "True white", "price": 3000 }
+    ]
+  }
+]
